@@ -1,0 +1,9 @@
+build/
+java/out/
+.opencode/
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+*.o
+*.exe

@@ -1,0 +1,26 @@
+{
+  "files.encoding": "utf8",
+  "terminal.integrated.env.windows": {
+    "JAVA_HOME": "C:\\Users\\reyes\\toolchains\\jdk21\\jdk-21.0.12.1+1",
+    "PATH": "C:\\Users\\reyes\\toolchains\\jdk21\\jdk-21.0.12.1+1\\bin;C:\\Users\\reyes\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin;${env:PATH}"
+  },
+  "C_Cpp.default.compilerPath": "C:\\Users\\reyes\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe",
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+  "java.jdt.ls.java.home": "C:\\Users\\reyes\\toolchains\\jdk21\\jdk-21.0.12.1+1",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Users\\reyes\\toolchains\\jdk21\\jdk-21.0.12.1+1",
+      "default": true
+    }
+  ],
+  "java.project.sourcePaths": [
+    "java"
+  ],
+  "java.project.outputPath": "java/out",
+  "java.project.referencedLibraries": [
+    "java/lib/**/*.jar"
+  ]
+}
